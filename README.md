@@ -34,4 +34,4 @@ The dataset consists of ~100k orders from 2016 and 2018 that were made on the Ol
 ## The Goal and results
 The goal was to analyze the dataset and develop strategies to increase overall profitability of the company.
 
-Here you can see the presentation of the analysis:
+[Here](notebooks/ceo_request.iypnb) you can see the presentation of the analysis.
